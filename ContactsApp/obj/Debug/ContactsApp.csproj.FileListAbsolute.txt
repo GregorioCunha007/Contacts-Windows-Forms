@@ -1,0 +1,10 @@
+C:\Users\Pedro\source\repos\ContactsApp\ContactsApp\bin\Debug\ContactsApp.exe.config
+C:\Users\Pedro\source\repos\ContactsApp\ContactsApp\bin\Debug\ContactsApp.exe
+C:\Users\Pedro\source\repos\ContactsApp\ContactsApp\bin\Debug\ContactsApp.pdb
+C:\Users\Pedro\source\repos\ContactsApp\ContactsApp\obj\Debug\ContactsApp.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\source\repos\ContactsApp\ContactsApp\obj\Debug\ContactsApp.ContactsForm.resources
+C:\Users\Pedro\source\repos\ContactsApp\ContactsApp\obj\Debug\ContactsApp.Properties.Resources.resources
+C:\Users\Pedro\source\repos\ContactsApp\ContactsApp\obj\Debug\ContactsApp.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\ContactsApp\ContactsApp\obj\Debug\ContactsApp.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\ContactsApp\ContactsApp\obj\Debug\ContactsApp.exe
+C:\Users\Pedro\source\repos\ContactsApp\ContactsApp\obj\Debug\ContactsApp.pdb
